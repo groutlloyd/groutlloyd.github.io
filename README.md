@@ -1,5 +1,4 @@
 
 
-Yeah, that's my text.
-(https://groutlloyd.github.io/Portfolio.html)
+[Yeah, that's my http random thing.](https://groutlloyd.github.io/Portfolio.html)
 
