@@ -1,6 +1,8 @@
 
 
-![Vitae.](Trịnh Đức Tính's Vitae.pdf)
+<img src="Trịnh Đức Tính's Vitae.pdf"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 [That's my product's website](http://ngoisaola.com)
 
