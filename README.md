@@ -1,6 +1,6 @@
 
 
-![](Trịnh Đức Tính's Vitae.pdf)
+![](0001.jpg)
 
 [That's my product's website.](http://ngoisaola.com)
 
