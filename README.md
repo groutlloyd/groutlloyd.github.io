@@ -1,7 +1,7 @@
 
 
 
-![![Alternate Text](BlogPostAssets/video/Capture.png)](BlogPostAssets/video/Untitled.mp4)
+![![](BlogPostAssets/video/Capture.png)](BlogPostAssets/video/Untitled.mp4)
 
 <a href="BlogPostAssets/video/Untitled.mp4" title="Link Title"><img src="BlogPostAssets/video/Capture.png" alt="Alternate Text" /></a>
 
