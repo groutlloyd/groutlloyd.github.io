@@ -1,8 +1,7 @@
 
 
-<a href="/BlogPostAssets/video/Untitled.mp4" title="Link Title"><img src="/BlogPostAssets/video/Capture.PNG"  style="float: none; margin-right: 25vw;"/></a>
-
-
+<a href="/BlogPostAssets/video/Untitled.mp4" title="Link Title"><img src="/BlogPostAssets/video/Capture.PNG" alt="Audio Visualization." style="float: none; margin-right: 25vw;"/></a>
+A sample of my recent project.
 
 ![](0001.jpg)
 
