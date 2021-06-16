@@ -1,6 +1,6 @@
 
 
-<a href="/BlogPostAssets/video/Untitled.mp4" title="Link Title"><img src="/BlogPostAssets/video/Capture.PNG"  style="float: left; margin-right: 10px;"/></a>
+<a href="/BlogPostAssets/video/Untitled.mp4" title="Link Title"><img src="/BlogPostAssets/video/Capture.PNG"  style="float: none; margin-right: 25vw;"/></a>
 
 
 
