@@ -1,6 +1,6 @@
 
 
-[![Alternate Text]({/BlogPostAssets/video/Capture.png})]({/BlogPostAssets/video/Untitled.mp4} "Link Title")
+[![Alternate Text]({https://groutlloyd.github.io/BlogPostAssets/video/Capture.png})]({https://groutlloyd.github.io/BlogPostAssets/video/Untitled.mp4} "Link Title")
 
 ![](0001.jpg)
 
