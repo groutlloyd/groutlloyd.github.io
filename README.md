@@ -1,7 +1,7 @@
 
 
 
-![![Alternate Text](/BlogPostAssets/video/Capture.png)](/BlogPostAssets/video/Untitled.mp4)
+![![Alternate Text](BlogPostAssets/video/Capture.png)](BlogPostAssets/video/Untitled.mp4)
 
 ![](0001.jpg)
 
