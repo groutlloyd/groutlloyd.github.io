@@ -5,8 +5,8 @@
 
 ![](0001.jpg)
 
-- [That's my product's website.](http://ngoisaola.com)
+[//]: #(- [That's my product's website.](http://ngoisaola.com))
 
-- [Yeah, that's my html random thing.](https://groutlloyd.github.io/Portfolio.html)
+[//]: #(- [Yeah, that's my html random thing.](https://groutlloyd.github.io/Portfolio.html))
 
-Call : [078-524-9307](/tel:07885249307)
+Call : [078-524-9307](tel:07885249307)
